@@ -1,4 +1,4 @@
-<img width="1519" height="597" alt="Screenshot 2026-04-10 233730" src="https://github.com/user-attachments/assets/ea96138b-5525-499d-a880-a587e433ef35" /># HDL_Bits_Problems
+ # HDL_Bits_Problems
 
 ## 1st Problem - And gate( Simulation/Circuit)
 <img width="1491" height="802" alt="Screenshot 2026-04-08 224512" src="https://github.com/user-attachments/assets/9527b8cb-b55b-4fa6-abea-3aa56a096dd9" />

@@ -15,3 +15,7 @@
 
 ---
 
+## 4th Problem - Simulation/Circuit
+<img width="1559" height="606" alt="Screenshot 2026-04-11 214711" src="https://github.com/user-attachments/assets/403b7b7a-1578-496f-95e0-ecd8b9ac452f" />
+
+---

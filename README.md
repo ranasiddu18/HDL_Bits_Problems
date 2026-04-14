@@ -29,3 +29,8 @@
 <img width="1523" height="410" alt="Screenshot 2026-04-13 191112" src="https://github.com/user-attachments/assets/2ab9f952-5d0b-45ec-a9db-c4a71b3c3f4d" />
 
 ---
+
+## 7th Problem - Simulation/Circuit
+<img width="1534" height="467" alt="Screenshot 2026-04-14 212706" src="https://github.com/user-attachments/assets/0ef52353-7834-4685-9c67-41672b5e7c15" />
+
+---

@@ -39,3 +39,8 @@
 <img width="1556" height="477" alt="Screenshot 2026-04-14 213303" src="https://github.com/user-attachments/assets/b80d5bfc-99ef-4ebe-9c8b-f58ce358627a" />
 
 ---
+
+## 9th Problem - Simulation/Circuit
+<img width="1545" height="461" alt="Screenshot 2026-04-16 152638" src="https://github.com/user-attachments/assets/4f48d293-a56d-4384-9088-ae2533868024" />
+
+---

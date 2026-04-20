@@ -44,3 +44,9 @@
 <img width="1545" height="461" alt="Screenshot 2026-04-16 152638" src="https://github.com/user-attachments/assets/4f48d293-a56d-4384-9088-ae2533868024" />
 
 ---
+
+## 10th Problem - Counter
+<img width="1591" height="445" alt="Screenshot 2026-04-20 180723" src="https://github.com/user-attachments/assets/daa993bc-aae0-47c5-bb90-666b60717bb5" />
+
+---
+

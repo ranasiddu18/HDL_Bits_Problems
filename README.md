@@ -50,3 +50,8 @@
 
 ---
 
+## 11th Problem - Counter
+<img width="1536" height="397" alt="Screenshot 2026-04-21 222238" src="https://github.com/user-attachments/assets/0985d7c7-1eff-4a52-a6bd-ad909f6b69f5" />
+
+---
+

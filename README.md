@@ -55,3 +55,8 @@
 
 ---
 
+## 12th Problem - Counter
+<img width="1527" height="479" alt="Screenshot 2026-04-22 200341" src="https://github.com/user-attachments/assets/a29a9f35-2fa4-4ec6-80aa-299e1c2c6ee5" />
+
+---
+

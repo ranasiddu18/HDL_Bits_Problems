@@ -66,4 +66,10 @@
 
 ---
 
+## 14th Problem - 4-bit full Adder
+<img width="1495" height="580" alt="Screenshot 2026-04-24 204502" src="https://github.com/user-attachments/assets/2b745547-2ccf-41de-bd1e-adc74bbc8c28" />
+
+---
+
+
 

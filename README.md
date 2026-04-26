@@ -76,6 +76,10 @@
 
 ---
 
+## 16th Problem - 100-bit Binary Adder
+<img width="1518" height="239" alt="Screenshot 2026-04-26 193028" src="https://github.com/user-attachments/assets/c8306a69-3ec5-4a15-865b-9ee715381895" />
+
+---
 
 
 

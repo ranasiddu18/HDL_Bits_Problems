@@ -81,6 +81,11 @@
 
 ---
 
+## 17th Problem - Kmap1
+<img width="1537" height="889" alt="Screenshot 2026-04-27 201858" src="https://github.com/user-attachments/assets/f1c55bea-57cf-49b5-b7d1-56504ad3d150" />
+
+---
+
 
 
 

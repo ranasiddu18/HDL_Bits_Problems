@@ -91,5 +91,9 @@
 
 ---
 
+## 19th Problem - Kmap3
+<img width="1545" height="826" alt="Screenshot 2026-04-29 165530" src="https://github.com/user-attachments/assets/3b13531d-b06d-4f30-9d8f-f92b59cac8b1" />
+
+---
 
 

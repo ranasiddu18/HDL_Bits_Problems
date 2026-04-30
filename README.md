@@ -96,4 +96,8 @@
 
 ---
 
+## 20th Problem - Kmap4
+<img width="1532" height="835" alt="Screenshot 2026-04-30 212013" src="https://github.com/user-attachments/assets/057da6cd-5914-4f07-84d7-539ece30ce7e" />
+
+---
 

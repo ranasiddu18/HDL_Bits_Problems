@@ -101,3 +101,7 @@
 
 ---
 
+## 21th Problem - Minimum SOP and POS
+<img width="1553" height="341" alt="Screenshot 2026-05-01 202838" src="https://github.com/user-attachments/assets/82015be4-47c7-4768-a6cd-2a1d501efb18" />
+
+---

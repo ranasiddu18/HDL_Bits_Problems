@@ -105,3 +105,9 @@
 <img width="1553" height="341" alt="Screenshot 2026-05-01 202838" src="https://github.com/user-attachments/assets/82015be4-47c7-4768-a6cd-2a1d501efb18" />
 
 ---
+
+## 22th Problem - Kmap
+<img width="1522" height="637" alt="Screenshot 2026-05-02 201057" src="https://github.com/user-attachments/assets/2574ec85-eebb-4d09-8d36-fddcde400cf5" />
+
+---
+

@@ -111,3 +111,7 @@
 
 ---
 
+## 23th Problem - Kmap
+<img width="1507" height="388" alt="Screenshot 2026-05-06 220320" src="https://github.com/user-attachments/assets/7d3d6bf3-2cef-4742-895f-1d9925881a4f" />
+
+---

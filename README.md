@@ -120,3 +120,8 @@
 <img width="773" height="473" alt="Screenshot 2026-05-09 230114" src="https://github.com/user-attachments/assets/171c2da2-fc2a-4a95-ab65-e596a2f94e7f" />
 
 ---
+
+## 25 Problem - Clock 12 hour
+<img width="779" height="370" alt="Screenshot 2026-06-07 153953" src="https://github.com/user-attachments/assets/bcd78e5a-3524-42de-9fd2-c207673a227a" />
+
+---

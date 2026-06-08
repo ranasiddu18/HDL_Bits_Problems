@@ -126,7 +126,7 @@
 
 ---
 
-## 26 Problem = Shift 4
+## 26 Problem - Shift 4
 <img width="767" height="221" alt="Screenshot 2026-06-08 154037" src="https://github.com/user-attachments/assets/9bc29318-05d5-4085-9e32-516e8c0f0a64" />
 
 ---

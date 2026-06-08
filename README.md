@@ -125,3 +125,8 @@
 <img width="779" height="370" alt="Screenshot 2026-06-07 153953" src="https://github.com/user-attachments/assets/bcd78e5a-3524-42de-9fd2-c207673a227a" />
 
 ---
+
+## 26 Problem = Shift 4
+<img width="767" height="221" alt="Screenshot 2026-06-08 154037" src="https://github.com/user-attachments/assets/9bc29318-05d5-4085-9e32-516e8c0f0a64" />
+
+---

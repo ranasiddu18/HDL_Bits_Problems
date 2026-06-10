@@ -135,3 +135,8 @@
 <img width="773" height="278" alt="Screenshot 2026-06-09 173828" src="https://github.com/user-attachments/assets/3c803f1b-6110-42c5-bc90-f2d1a3122f64" />
 
 ---
+
+## 28 Problem - Shift 8-bit 
+<img width="765" height="396" alt="Screenshot 2026-06-10 191649" src="https://github.com/user-attachments/assets/333bd92e-20a0-4f19-bd73-e44a86d99955" />
+
+---

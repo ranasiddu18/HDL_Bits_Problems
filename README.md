@@ -140,3 +140,8 @@
 <img width="765" height="396" alt="Screenshot 2026-06-10 191649" src="https://github.com/user-attachments/assets/333bd92e-20a0-4f19-bd73-e44a86d99955" />
 
 ---
+
+## 29 Problem - LFSR
+<img width="781" height="342" alt="Screenshot 2026-06-11 175125" src="https://github.com/user-attachments/assets/4c8cffb1-97c4-4458-85a3-24ddfa7e967f" />
+
+---

@@ -145,3 +145,9 @@
 <img width="781" height="342" alt="Screenshot 2026-06-11 175125" src="https://github.com/user-attachments/assets/4c8cffb1-97c4-4458-85a3-24ddfa7e967f" />
 
 ---
+
+## 30th Problem - LFSR 3-bit
+<img width="761" height="431" alt="Screenshot 2026-06-12 195205" src="https://github.com/user-attachments/assets/85bc0037-c0b6-45f7-b6b3-faa0aadc5609" />
+
+---
+

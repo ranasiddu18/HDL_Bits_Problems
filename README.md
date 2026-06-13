@@ -151,3 +151,7 @@
 
 ---
 
+## 31st Problem - LFSR 32-bit
+<img width="779" height="134" alt="Screenshot 2026-06-13 152407" src="https://github.com/user-attachments/assets/a517e825-d199-4d2c-a336-4f8aabf55c0d" />
+
+---

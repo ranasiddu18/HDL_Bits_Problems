@@ -155,3 +155,8 @@
 <img width="779" height="134" alt="Screenshot 2026-06-13 152407" src="https://github.com/user-attachments/assets/a517e825-d199-4d2c-a336-4f8aabf55c0d" />
 
 ---
+
+## 32nd Problem - Shift Register
+<img width="756" height="266" alt="Screenshot 2026-06-14 225752" src="https://github.com/user-attachments/assets/53cfb989-b986-4a83-ac83-ac2bf4ff4a95" />
+
+---

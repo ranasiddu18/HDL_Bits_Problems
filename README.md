@@ -156,7 +156,13 @@
 
 ---
 
-## 32nd Problem - Shift Register
+## 32nd Problem - Shift Register 1
 <img width="756" height="266" alt="Screenshot 2026-06-14 225752" src="https://github.com/user-attachments/assets/53cfb989-b986-4a83-ac83-ac2bf4ff4a95" />
+
+---
+
+## 33rd Problem - Shift Register 2
+<img width="774" height="470" alt="Screenshot 2026-06-15 195906" src="https://github.com/user-attachments/assets/f4086906-ceae-43b0-ac9c-df80afde9201" />
+
 
 ---

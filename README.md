@@ -166,3 +166,8 @@
 
 
 ---
+
+## 34th Problem - 3-bit LUT
+<img width="773" height="220" alt="Screenshot 2026-06-16 221531" src="https://github.com/user-attachments/assets/77437f12-55fb-4434-8baf-6edec299634a" />
+
+---

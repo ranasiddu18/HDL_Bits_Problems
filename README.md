@@ -171,3 +171,9 @@
 <img width="773" height="220" alt="Screenshot 2026-06-16 221531" src="https://github.com/user-attachments/assets/77437f12-55fb-4434-8baf-6edec299634a" />
 
 ---
+
+## 35th Problem - Rule 90
+<img width="768" height="437" alt="Screenshot 2026-06-17 195051" src="https://github.com/user-attachments/assets/c5650e67-3f42-4d5d-9691-3d78c843b932" />
+
+---
+

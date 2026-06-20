@@ -186,3 +186,9 @@
 <img width="758" height="233" alt="Screenshot 2026-06-19 180805" src="https://github.com/user-attachments/assets/4ed4ce3a-c48f-4095-95e9-1dcc1c0aa01d" />
 
 ---
+
+## 38th Problem - FSM -1s
+<img width="763" height="223" alt="Screenshot 2026-06-20 205832" src="https://github.com/user-attachments/assets/f2611b2d-60b3-420c-b8c4-895bad5365cc" />
+
+---
+

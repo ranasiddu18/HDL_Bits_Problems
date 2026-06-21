@@ -187,8 +187,13 @@
 
 ---
 
-## 38th Problem - FSM -1s
+## 38th Problem - FSM - 1s
 <img width="763" height="223" alt="Screenshot 2026-06-20 205832" src="https://github.com/user-attachments/assets/f2611b2d-60b3-420c-b8c4-895bad5365cc" />
+
+---
+
+## 39th Problem - FSM - 2
+<img width="754" height="227" alt="Screenshot 2026-06-21 195637" src="https://github.com/user-attachments/assets/725293ed-870e-48a5-a36c-69fc6286f958" />
 
 ---
 

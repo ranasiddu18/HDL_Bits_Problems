@@ -197,3 +197,7 @@
 
 ---
 
+## 40th Problem - FSM - 2s
+<img width="769" height="229" alt="Screenshot 2026-06-22 190422" src="https://github.com/user-attachments/assets/ead29163-1cb6-4d3c-8721-8e2012339d2f" />
+
+---

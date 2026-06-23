@@ -201,3 +201,9 @@
 <img width="769" height="229" alt="Screenshot 2026-06-22 190422" src="https://github.com/user-attachments/assets/ead29163-1cb6-4d3c-8721-8e2012339d2f" />
 
 ---
+
+## 41st Problem - FSM3 Comb
+<img width="757" height="302" alt="Screenshot 2026-06-23 143602" src="https://github.com/user-attachments/assets/75e11423-c3f7-4332-9e61-f3fa24314ec4" />
+
+---
+

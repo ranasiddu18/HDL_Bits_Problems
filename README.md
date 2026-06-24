@@ -207,3 +207,9 @@
 
 ---
 
+## 42nd Problem - FSM3onehot
+<img width="772" height="346" alt="Screenshot 2026-06-24 195203" src="https://github.com/user-attachments/assets/2d1b55a2-e5a9-41c6-9837-8a0b24a7f8ec" />
+
+---
+
+

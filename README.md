@@ -212,4 +212,8 @@
 
 ---
 
+## 43rd Problem - FSM - 3
+<img width="767" height="289" alt="Screenshot 2026-06-25 200524" src="https://github.com/user-attachments/assets/0373f0fc-76c1-452e-b15a-068004560342" />
+
+---
 

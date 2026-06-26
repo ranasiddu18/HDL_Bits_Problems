@@ -217,3 +217,9 @@
 
 ---
 
+## 44th Problem - FSM - 3s
+<img width="770" height="281" alt="Screenshot 2026-06-26 222202" src="https://github.com/user-attachments/assets/4da50ba3-66df-4470-804d-c75536f551bd" />
+
+---
+
+

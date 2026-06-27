@@ -222,4 +222,8 @@
 
 ---
 
+## 45th Problem - Exams/ece241 2013 q4
+<img width="757" height="499" alt="Screenshot 2026-06-27 201546" src="https://github.com/user-attachments/assets/2500e4d4-9cfd-49a1-bd90-141305429d34" />
+
+---
 

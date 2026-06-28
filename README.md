@@ -227,3 +227,7 @@
 
 ---
 
+## 46 Problem - Lemmings 1
+<img width="761" height="343" alt="Screenshot 2026-06-28 193032" src="https://github.com/user-attachments/assets/0bc36434-b33d-4bbf-bc1d-ad7a8c4c2bbf" />
+
+---

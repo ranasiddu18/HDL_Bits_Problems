@@ -240,6 +240,6 @@
 ## 48th Problem - Lemmings 3
 <img width="751" height="497" alt="Screenshot 2026-06-30 200155" src="https://github.com/user-attachments/assets/6e707ecf-c784-405f-964a-3e8502e50f23" />
 
----
+-----
 
 

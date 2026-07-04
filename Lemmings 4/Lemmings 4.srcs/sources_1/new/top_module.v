@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
- module top_module(
+/* module top_module(
     input clk,
     input areset,
     input bump_left,
@@ -162,5 +162,121 @@ end
     assign aaah = (state == FL) || (state == FR);
 
     assign digging = (state == DL) || (state == DR);
+
+endmodule */
+module top_module(
+    input clk,
+    input areset,
+    input bump_left,
+    input bump_right,
+    input ground,
+    input dig,
+    output reg walk_left,
+    output reg walk_right,
+    output reg aaah,
+    output reg digging
+);
+
+    localparam LEFT     = 3'd0,
+               RIGHT    = 3'd1,
+               FALLING  = 3'd2,
+               DIGGING  = 3'd3,
+               SPLATTER = 3'd4;
+
+    reg [2:0] state, next_state;
+    reg [4:0] count;
+    reg walk_dir; // 0 = LEFT, 1 = RIGHT
+
+   // Sequential block
+always @(posedge clk or posedge areset) begin
+    if (areset) begin
+        state    <= LEFT;
+        walk_dir <= 0;
+        count    <= 0;
+    end else begin
+        state <= next_state;
+
+        // Capture walking direction ONLY when walking
+        if (next_state == LEFT)
+            walk_dir <= 0;
+        else if (next_state == RIGHT)
+            walk_dir <= 1;
+
+        else begin  // Count ONLY when currently in FALLING state
+        if(state != FALLING && next_state == FALLING)
+          count <= 0;          // entering falling
+        else if(state == FALLING)
+          count <= count + 1;
+        else
+          count <= 0;  end // Reset count whenever not falling
+    end
+end
+
+// Next state logic (combinational)
+always @(*) begin
+    case(state)
+        LEFT: begin
+            if (!ground)
+                next_state = FALLING;
+            else if (dig)
+                next_state = DIGGING;
+            else if (bump_left)
+                next_state = RIGHT;
+            else
+                next_state = LEFT;
+        end
+
+        RIGHT: begin
+            if (!ground)
+                next_state = FALLING;
+            else if (dig)
+                next_state = DIGGING;
+            else if (bump_right)
+                next_state = LEFT;
+            else
+                next_state = RIGHT;
+        end
+
+        DIGGING: begin
+            if (!ground)
+                next_state = FALLING;
+            else
+                next_state = DIGGING;
+        end
+
+        FALLING: begin
+            if (ground) begin
+                // count already reflects cycles spent falling
+                if (count > 5'd20)   // >20 means 21st cycle causes splat
+                    next_state = SPLATTER;
+                else
+                    next_state = walk_dir ? RIGHT : LEFT;
+            end else begin
+                next_state = state;
+            end
+        end
+
+        SPLATTER: 
+                next_state = state;
+
+        default:
+            next_state = LEFT;
+    endcase
+end
+
+// Output logic
+always @(*) begin
+    walk_left  = (state == LEFT);
+    walk_right = (state == RIGHT);
+    aaah       = (state == FALLING);
+    digging    = (state == DIGGING);
+
+    if (state == SPLATTER) begin
+        walk_left  = 0;
+        walk_right = 0;
+        aaah       = 0;
+        digging    = 0;
+    end
+end
 
 endmodule

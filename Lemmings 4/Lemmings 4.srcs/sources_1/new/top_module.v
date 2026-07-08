@@ -19,6 +19,118 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+module top_module(
+    input clk,
+    input areset,    // Freshly brainwashed Lemmings walk left.
+    input bump_left,
+    input bump_right,
+    input ground,
+    input dig,
+    output reg walk_left,
+    output reg walk_right,
+    output reg aaah,
+    output reg digging ); 
+    
+    reg [2:0] state ,next_state;
+    localparam LEFT = 0, RIGHT = 1, DIG_L=2, DIG_R=3, FALL_L=4, FALL_R=5, SPLAT=6;
+    reg [4:0] count;
+    
+    always@(*)
+        begin
+            case(state)
+                LEFT: begin
+                    if(~ground)
+                        next_state = FALL_L;
+                    else if(dig)
+                        next_state = DIG_L;
+                    else if(bump_left)
+                        next_state = RIGHT;
+                    else
+                        next_state = state;
+                end
+                RIGHT : begin
+                     if(~ground)
+                        next_state = FALL_R;
+                    else if(dig)
+                        next_state = DIG_R;
+                    else if(bump_right)
+                        next_state = LEFT;
+                    else
+                        next_state = state;
+                end
+                DIG_L : begin
+                    if(~ground)
+                        next_state = FALL_L;
+                    else
+                        next_state = state;
+                end
+                DIG_R : begin
+                     if(~ground)
+                        next_state = FALL_R;
+                    else
+                        next_state = state;
+                end
+                FALL_L: begin
+                    if(count>21) begin
+                        if(ground) begin
+                            next_state = SPLAT; end
+                        else
+                            next_state = state; end
+                    else begin
+                        if(ground) begin
+                            next_state = LEFT; end
+                        else 
+                            next_state = state; end
+                end
+                FALL_R : begin
+                    if(count>21) begin
+                        if(ground) begin
+                            next_state = SPLAT; end
+                        else
+                            next_state = state; end
+                    else begin
+                        if(ground) begin
+                            next_state = RIGHT; end
+                        else 
+                            next_state = state; end
+                end
+                SPLAT : 
+                    next_state= state;
+                default : 
+                    next_state = LEFT;
+                
+            endcase
+        end
+    always@(posedge clk or posedge areset) begin
+        
+    if(areset) begin
+        count <= 0;
+        state <= LEFT; end
+    else 
+        state <= next_state;
+    if(state == FALL_L | FALL_R)
+        count <= count +1 ;
+    else if ( (state == FALL_L | FALL_R) && (next_state != FALL_L | FALL_R))
+        count <= 0;
+    end
+    
+   
+    always@(*)
+        begin
+            if(state == SPLAT) begin
+                walk_left = 0;
+                walk_right = 0;
+                aaah = 0;
+                digging = 0; end
+            else begin
+                walk_left = (state == LEFT);
+                walk_right = (state == RIGHT);
+                aaah = (state == FALL_L || state == FALL_R);
+                digging = (state == DIG_L || state == DIG_R);
+            end
+        end
+    
+endmodule
 
 /* module top_module(
     input clk,
@@ -163,7 +275,11 @@ end
 
     assign digging = (state == DL) || (state == DR);
 
-endmodule */
+endmodule 
+
+
+
+//// 2nd  Code
 module top_module(
     input clk,
     input areset,
@@ -279,4 +395,4 @@ always @(*) begin
     end
 end
 
-endmodule
+endmodule */

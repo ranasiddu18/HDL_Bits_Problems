@@ -1,0 +1,12 @@
+reg [2:0] state, next_state;
+    localparam LEFT = 0, Right = 1,DIG_L = 2,DIG_R = 3 , FALL_L = 4, FALL_R = 5 , SPLAT = 6 ;
+    reg [5:0] count; 
+    
+    always@(*) 
+        begin
+            case(state)
+                LEFT : begin
+                    if(~ground)
+                        next_state = FALL_l;
+                    else
+                

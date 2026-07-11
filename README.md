@@ -247,5 +247,11 @@
 
 ----
 
+## 50th Problem - FSM Onehot
+<img width="774" height="450" alt="Screenshot 2026-07-11 195647" src="https://github.com/user-attachments/assets/ed6ad781-0fc0-4945-a500-ff7ec6f238cd" />
+
+----
+
+
 
 

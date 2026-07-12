@@ -252,6 +252,9 @@
 
 ----
 
+## 51st Problem - FSM ps2
+<img width="770" height="439" alt="Screenshot 2026-07-12 163552" src="https://github.com/user-attachments/assets/b188d5a6-81cb-4fc8-bc70-f8c86742c5e7" />
 
+----
 
 

@@ -257,4 +257,11 @@
 
 ----
 
+## 52nd Problem - FSM ps2data
+<img width="751" height="366" alt="Screenshot 2026-07-14 192206" src="https://github.com/user-attachments/assets/c1045942-2c6b-44d0-8bab-fdd4c265fb77" />
+
+
+---
+
+
 

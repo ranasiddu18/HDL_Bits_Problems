@@ -263,5 +263,10 @@
 
 ---
 
+## 53rd Problem - Serial Receiver
+<img width="776" height="504" alt="Screenshot 2026-07-15 192444" src="https://github.com/user-attachments/assets/a53db490-0c7e-40f2-9906-7493646d98f7" />
+
+----
+
 
 

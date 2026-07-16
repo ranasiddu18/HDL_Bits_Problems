@@ -268,5 +268,11 @@
 
 ----
 
+## 54th Problem - FSM Serialdata
+<img width="745" height="385" alt="Screenshot 2026-07-16 191458" src="https://github.com/user-attachments/assets/ae734a99-1045-49c8-af02-9282c8b7a926" />
+
+----
+
+
 
 

@@ -273,6 +273,11 @@
 
 ----
 
+## 55th Problem - Serial receiver with Parity
+<img width="767" height="309" alt="Screenshot 2026-07-19 215110" src="https://github.com/user-attachments/assets/19af1af0-22bf-4bb7-99a6-675d75b9e2c4" />
+<img width="734" height="457" alt="Screenshot 2026-07-19 215140" src="https://github.com/user-attachments/assets/5b73dfe3-e3d6-4d4a-8e63-e5e10976c313" />
+
+----
 
 
 

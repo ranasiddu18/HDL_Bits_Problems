@@ -279,5 +279,13 @@
 
 ----
 
+## 56th Problem - Sequence Recognition
+<img width="779" height="469" alt="Screenshot 2026-07-23 205403" src="https://github.com/user-attachments/assets/1b6b1bfe-f68a-4fed-af88-40ebf9ca5d68" />
+<img width="767" height="347" alt="Screenshot 2026-07-23 205426" src="https://github.com/user-attachments/assets/ff8cabae-1beb-4210-adab-bc4033d55102" />
+
+----
+
+
+
 
 

@@ -285,6 +285,12 @@
 
 ----
 
+## 57th Problem - Counter with period 1000
+<img width="761" height="210" alt="Screenshot 2026-07-25 220548" src="https://github.com/user-attachments/assets/be342eac-f1f9-4538-8ff9-8da22193093e" />
+
+----
+
+
 
 
 

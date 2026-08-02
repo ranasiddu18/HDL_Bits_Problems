@@ -22,7 +22,7 @@
 
  module top_module(
     input clk,
-    input reset,    // Synchronous reset
+    input rst,    // Synchronous reset
     input in,
     output disc,
     output flag,
